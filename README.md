@@ -101,7 +101,9 @@ Built with modern web technologies to showcase both my work and technical capabi
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horlamedhey&show_icons=true&locale=en&layout=compact" alt="horlamedhey" /></p>
 
 <div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=horlamedhey&theme=radical)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
