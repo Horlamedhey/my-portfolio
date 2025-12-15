@@ -94,7 +94,22 @@ Built with modern web technologies to showcase both my work and technical capabi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gafarajao&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0b&title_color=f97316&icon_color=f97316&text_color=fafafa)
+![CodeTime badge](https://img.shields.io/endpoint?style=plastic&color=green&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D1023%26project%3D%26in%3D0)](https://codetime.dev)
+
+</div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horlamedhey&show_icons=true&locale=en&layout=compact" alt="horlamedhey" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horlamedhey&" alt="horlamedhey" /></p>
+
+<div align="center">
+
+![Abdulgafar's GitHub stats](https://github-readme-stats.vercel.app/api?username=horlamedhey&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+</div>
+<div align="center">
+
+![CodeTime badge](https://img.shields.io/endpoint?style=plastic&color=green&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D1023%26project%3D%26in%3D0)](https://codetime.dev)
 
 </div>
 
