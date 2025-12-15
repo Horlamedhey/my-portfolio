@@ -102,7 +102,7 @@ Built with modern web technologies to showcase both my work and technical capabi
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=horlamedhey&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=horlamedhey&theme=radical&type=png)](https://git.io/streak-stats)
 
 </div>
 
