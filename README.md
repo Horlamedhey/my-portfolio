@@ -94,7 +94,7 @@ Built with modern web technologies to showcase both my work and technical capabi
 
 <div align="center">
 
-![CodeTime badge](https://img.shields.io/endpoint?style=plastic&color=green&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D1023%26project%3D%26in%3D0)](https://codetime.dev)
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=f97316&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D1023)](https://codetime.dev)
 
 </div>
 
@@ -105,11 +105,6 @@ Built with modern web technologies to showcase both my work and technical capabi
 <div align="center">
 
 ![Abdulgafar's GitHub stats](https://github-readme-stats.vercel.app/api?username=horlamedhey&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-</div>
-<div align="center">
-
-![CodeTime badge](https://img.shields.io/endpoint?style=plastic&color=green&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D1023%26project%3D%26in%3D0)](https://codetime.dev)
 
 </div>
 
